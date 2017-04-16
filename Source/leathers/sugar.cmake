@@ -106,6 +106,9 @@ sugar_files(
     unused-variable
     used-but-marked-unused
     weak-vtables
+    useless-cast
+    float-equal
+    double-promotion
     arc-bridge-casts-disallowed-in-nonarc
     arc-repeated-use-of-weak
     deprecated-implementations

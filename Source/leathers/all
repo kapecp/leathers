@@ -90,6 +90,9 @@
 #include <leathers/unused-variable>
 #include <leathers/used-but-marked-unused>
 #include <leathers/weak-vtables>
+#include <leathers/useless-cast>
+#include <leathers/float-equal>
+#include <leathers/double-promotion>
 #include <leathers/arc-bridge-casts-disallowed-in-nonarc>
 #include <leathers/arc-repeated-use-of-weak>
 #include <leathers/deprecated-implementations>
